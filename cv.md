@@ -1,15 +1,17 @@
-#Artem Dubovov
+# Artem Dubovov
 
-##contacts :
+## contacts :
 >tel: +79876908697
+
 >telegram: https://t.me/Artem_Dubovov
+
 >email : artem.dubovov@bk.ru
 
-##about:
-```lorem```
-##skills:
+## about:
+>Hello, my name is Artem Dubovov. I'm studying front-end development, I took courses on . I also have several projects on my git hub.
+## skills:
 
-##code example:
+## code example:
 ```
 const cannonsReady = (gunners) => {
   for(let name in gunners){
@@ -21,5 +23,4 @@ const cannonsReady = (gunners) => {
   }
   return 'Fire!';
 }
-
 ```
