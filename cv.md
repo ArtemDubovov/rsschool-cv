@@ -3,17 +3,23 @@
 ## contacts :
 >tel: +79876908697
 
->telegram: https://t.me/Artem_Dubovov
+>telegram : https://t.me/Artem_Dubovov
 
 >email : artem.dubovov@bk.ru
+
+>discord : artemdubovov (@artemdubovov)
 
 ## about:
 >Hello, my name is Artem Dubovov. I'm studying front-end development, .I have a great desire to develop in web development.
 
 ## skills:
+
 >base html
+
 >base css
+
 >base js
+
 >git
 
 ## code example:
