@@ -13,7 +13,6 @@
 >Hello, my name is Artem Dubovov. I'm studying front-end development, .I have a great desire to develop in web development.
 
 ## skills:
-
 >base html
 
 >base css
