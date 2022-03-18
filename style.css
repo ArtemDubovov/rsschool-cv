@@ -25,3 +25,8 @@ a{
     box-shadow: -60px 40px 100px rgb(133,133,133), 60px -40px 100px rgb(235, 234, 240);
     z-index: 1;
 }
+code{
+    display: block;
+    background-color: rgb(200,200,200);
+    padding: 15px;
+}
