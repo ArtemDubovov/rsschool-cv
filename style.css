@@ -9,6 +9,7 @@ body{
     color: #000;
     font-size: 16px;
     background-color: rgb(211,210,213);
+    padding: 20px 30px;
 }
 a{
     text-decoration: none;
@@ -30,7 +31,22 @@ code{
     background-color: rgb(200,200,200);
     padding: 15px;
 }
-
+.__img{
+    width: 100%;
+    height: auto;
+}
+.__img-wrapper{
+    overflow: hidden;
+    max-width: 300px;
+    border-radius: 30px;
+    margin: 0 auto;
+}
+.__title{
+    text-transform: uppercase;
+    padding: 10px;
+    text-align: center;
+    font-weight: 600;
+}
 .header-name {
     font-size: 28px;
     letter-spacing: 14px;
@@ -50,9 +66,108 @@ code{
 .header-subtitle {
     font-size: 16px;
     font-weight: 400;
+    letter-spacing: 4px;
 }
 .header-link {
     font-weight: 700;
     text-decoration: underline;
 }
 
+.main {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.main-block {
+    flex: 1 1 auto;
+}
+.main-block-small {
+    max-width: 320px;
+}
+.block__about {
+}
+.about-title {
+}
+.about-content {
+}
+.__img-wrapper {
+}
+.__img {
+}
+.block__contact {
+}
+.contact-title {
+}
+.contact-items {
+}
+.contact-item {
+}
+.contact-item__name {
+}
+.contact-item__value {
+}
+.contact-link {
+}
+.block__skills {
+}
+.skills-title {
+}
+.title-nav {
+}
+.title-nav__list {
+}
+.list-item {
+}
+.list-item__name {
+}
+.list-item__block {
+}
+.list-item__point {
+}
+.point-check {
+}
+.main-block-big {
+    max-width: 400px;
+}
+.block__experience {
+}
+.experince-title {
+}
+.experience-content {
+}
+.block__projects {
+}
+.projects-title {
+}
+.projects-item {
+}
+.projects-link {
+}
+.block__language {
+}
+.language-title {
+}
+.language-content {
+}
+@media (max-width: 820px){
+    .main {
+        display: flex;
+        align-items: center;
+
+        flex-direction: column;
+    }
+    .main-block {
+        margin: 0 auto;
+    }
+}
+@media (max-width: 460px){
+    .header-name {
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .header-subtitle {
+        font-size: 12px;
+        font-weight: 400;
+        letter-spacing: 2px;
+    }
+}
