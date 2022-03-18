@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: #000;
+    font-size: 16px;
+    background-color: rgb(211,210,213);
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.container{
+    max-width: 900px;
+    margin: 50px auto;
+    height: auto;
+    padding: 30px;
+    background-color: rgb(247,247,247);
+    overflow: hidden;
+    box-shadow: 5xp 5px #000;
+}
