@@ -15,11 +15,13 @@ a{
     color: inherit;
 }
 .container{
-    max-width: 900px;
+    position: relative;
+    max-width: 760px;
     margin: 50px auto;
     height: auto;
     padding: 30px;
-    background-color: rgb(247,247,247);
+    background-color: rgb(241,241,241);
     overflow: hidden;
-    box-shadow: 5xp 5px #000;
+    box-shadow: -60px 40px 100px rgb(133,133,133), 60px -40px 100px rgb(235, 234, 240);
+    z-index: 1;
 }
