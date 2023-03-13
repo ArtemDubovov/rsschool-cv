@@ -1,36 +1,36 @@
-#Dubovov Artem
+# Dubovov Artem
 
-#####Junior Frontend Developer
+##### Junior Frontend Developer
 
-###Contact information:
--Phone
--Email
--Telegram
--Discord
+### Contact information:
+- Phone
+- Email
+- Telegram
+- Discord
 
-###About me:
-
-lorem lorem lorem
-
-###Skills:
-
-*HTML
-*CSS
-*JS
-*GIT
-*REACT
-*NODEJS
-*NPM
-
-###Code example:
+### About me:
 
 lorem lorem lorem
 
-###Courses:
+### Skills:
+
+* HTML
+* CSS
+* JS
+* GIT
+* REACT
+* NODEJS
+* NPM
+
+### Code example:
 
 lorem lorem lorem
 
-###Languages:
+### Courses:
 
--English - A1
--Russian - Native
+lorem lorem lorem
+
+### Languages:
+
+- English - A1
+- Russian - Native
