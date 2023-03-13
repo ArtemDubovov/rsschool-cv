@@ -35,8 +35,7 @@ function flip(fn) {
 ### Courses:
 
 - RS School Courses
-##### JavaScript/Front-end 2022Q1 - position 104, score 3539.8
-- [CV](https://app.rs.school/cv/39516d50-4624-4e41-87ed-462e981a95c5)
+##### JavaScript/Front-end 2022Q1 : position 104, score 3539.8 [CV](https://app.rs.school/cv/39516d50-4624-4e41-87ed-462e981a95c5)
 
 ### Languages:
 
