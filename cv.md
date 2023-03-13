@@ -19,9 +19,11 @@ I have been studying web development and technologies related to it for 2 years,
 * CSS
 * JS
 * GIT
+* NPM
 * REACT basic
 * NODEJS basic
-* NPM
+* REDUX basic
+
 
 ### Code example:
 
