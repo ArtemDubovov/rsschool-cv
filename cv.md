@@ -1,5 +1,7 @@
 # Dubovov Artem
 
+<img style="height: auto; width: 100px; border-radius: 50%" src="./photo_2022-03-19_00-13-44.jpg" alt="Its me)">
+
 ### Contact information:
 - Phone: +79876908697
 - Email: artem.dubovov@bk.ru
