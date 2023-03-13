@@ -10,20 +10,34 @@
     box-sizing: border-box;
   }
   .wrapper {
+    display: flex;
+    justify-content: space-between;
+
     min-width: 300px;
     min-height: 300px;
+    margin: 40px 80px;
     margin: 0px auto;
     border: 1px solid gray;
   }
+
+  .column-1 {
+    flex: 1 1 50%;
+    background-color: white;
+  }
+  .column-2 {
+    flex: 1 1 50%;
+    background-color: gray;
+  }
 </style>
 
-
-
-<div class="wrapper">
-  <div class="column">
-    #Dubovov Artem
+<body>
+  <div class="wrapper">
+    <div class="column column-1">
+      #Dubovov Artem
+    </div>
+    <div class="column column-2">
+      
+    </div>
   </div>
-  <div class="column">
-  
-  </div>
-</div>
+</body>
+</html>
