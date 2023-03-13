@@ -23,12 +23,14 @@ I have been studying web development and technologies related to it for 2 years,
 
 ### Code example:
 
-`function flip(fn) {
+```
+function flip(fn) {
     return function(...args){
       let arg = [...args].reverse();
       return fn(...arg);
     }
-}`
+}
+```
 
 ### Courses:
 
